@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: rgb(245, 180, 67);
   background-repeat: no-repeat;
+  background-image: url(../img/arkaplan.jpg);
   background-size: cover;
   background-position: center center;
   height: 100vh;
